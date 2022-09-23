@@ -20,3 +20,16 @@ YouTube: youtube.com/watch?v=28pyEDV9mMw&list=PLr5uaPu5L7xLEclrT0-2TWAz5FTkfdUiW
 
 Github: https://github.com/abhimotgi/dataslice/blob/master/R/Web%20Scraping%20with%20RVest%20Part%203.R
 
+Example websites to scrape:
+
+Online Games Datenbank
+
+https://ogdb.eu/
+
+Moby Games
+
+https://www.mobygames.com/
+
+Trip Advisor: Activities in Rotterdam
+
+https://www.tripadvisor.com/Attractions-g188632-Activities-Rotterdam_South_Holland_Province.html
