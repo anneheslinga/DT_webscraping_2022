@@ -60,7 +60,7 @@ movie_links = page %>% html_nodes(".lister-item-header a") %>%
 
 get_cast = function(movie_link) {
   movie_page = read_html(movie_link)
-  movie_cast = movie_page %>% html_nodes(".primary_photo+ td a") %>%
+  movie_cast = movie_page %>% html_nodes("div.sc-36c36dd0-8.fSYMLK a") %>%
     html_text() %>% paste(collapse = ",")
   return(movie_cast)
 }
